@@ -1,2 +1,1 @@
-# Coffe
-repositorio de prueba 
+como clonar un repositorio 
